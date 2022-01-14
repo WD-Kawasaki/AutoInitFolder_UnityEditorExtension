@@ -16,6 +16,9 @@ public class SetFolder
         FloderName("Materials");
         FloderName("Prefabs");
         FloderName("Scripts");
+        FloderName("sounds");
+        FloderName("texture");
+        
     }
 
     static void FloderName(string name)
